@@ -1,12 +1,10 @@
----
+------------------------------------------------------------------------
 
-title: "mchippy01.github.io"
----
+## title: "mchippy01.github.io"
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+\
+Emerging professional in the fields of ecosystem science and sustainability,and restoration ecology. While in school, I was involved in research and worked in a biochemistry lab. I am most skilled in culture growth, processing, and genetics. My core qualities of thoroughness and teamwork contribute to my ability to remain resilient in a lab setting. I seek to contribute my expertise to organizations focused on restoration ecology

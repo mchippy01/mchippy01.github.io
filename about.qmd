@@ -1,9 +1,13 @@
 ---
-title: "About" 
+title: "About Me"
+format: html
+theme: cosmo
 ---
 
-About this site
+## About Me
 
-```{r}
-1 + 2
-```
+Hello, I'm Chippy Marx, an emerging professional in the fields of ecosystem science and sustainability, and restoration ecology.
+
+### My Background
+
+I have experience in: microbial research and genetics, GIS, and soil physics
