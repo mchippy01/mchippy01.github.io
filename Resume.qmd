@@ -3,4 +3,8 @@ title: "Resume"
 editor: visual
 ---
 
-[Download my Resume](docs/MarxCV.pdf)
+## Download My Resume 
+
+[Click here to download my resume](docs/MarxCV.pdf){.btn .btn-success download="MarxCV.pdf"}
+
+
