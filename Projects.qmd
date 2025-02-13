@@ -1,0 +1,13 @@
+---
+title: "Projects"
+---
+
+Nucleotide Excision Repair in Thermococcus kodakarensis
+
+-   In this assignment we built a static users site with Github Pages
+
+-   Includes a github repo for access to all the code.
+
+-   
+
+    ## Look at how high quality my work is!

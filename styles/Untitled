@@ -1,0 +1,22 @@
+// Define your color variables
+$primary-color: #3498db;
+$secondary-color: #2ecc71;
+$background-color: #f8f9fa;
+$text-color: #333;
+
+// Apply to body and elements
+body {
+    background-color: $background-color;
+    color: $text-color;
+}
+
+a {
+    color: $primary-color;
+    &:hover {
+        color: $secondary-color;
+    }
+}
+
+.navbar {
+    background-color: $primary-color;
+}

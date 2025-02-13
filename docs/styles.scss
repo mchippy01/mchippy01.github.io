@@ -1,0 +1,35 @@
+// Define the forest green color scheme
+$deep-forest-green: #0B3D02;
+$dark-pine-green: #1B4D3E;
+$evergreen: #2C6E49;
+$fern-green: #4F7942;
+$moss-green: #8A9A5B;
+
+// Apply colors to page elements
+body {
+  background-color: $deep-forest-green;
+  color: $moss-green;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: $fern-green;
+}
+
+.button-primary {
+  background-color: $evergreen;
+  color: white;
+  padding: 10px 20px;
+  border: 2px solid $dark-pine-green;
+  cursor: pointer;
+}
+
+.button-secondary {
+  background-color: $dark-pine-green;
+  color: white;
+  padding: 10px 20px;
+  border: 2px solid $moss-green;
+  cursor: pointer;
+}
+
+

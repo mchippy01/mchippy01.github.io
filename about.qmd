@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 format: html
-theme: cosmo
+theme: trestles
 ---
 
 ## About Me

@@ -3,18 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "mchippy01.github.io"
+  title: "Chippy Marx"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About Me
+      - href: Projects.qmd
+        text: Projects 
+      - href: Resume.qmd
+        text: Resume
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    css: styles.scss  
     toc: true
 
-editor: visual
+
 

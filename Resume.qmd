@@ -1,0 +1,6 @@
+---
+title: "Resume"
+editor: visual
+---
+
+[Download my Resume](docs/MarxCV.pdf)
