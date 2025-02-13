@@ -1,16 +1,23 @@
 [
   {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download my Resume"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Nucleotide Excision Repair in Thermococcus kodakarensis\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hello, I’m Chippy Marx, an emerging professional in the fields of ecosystem science and sustainability, and restoration ecology.\n\n\nI have experience in: microbial research and genetics, GIS, and soil physics"
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "About Me",
-    "section": "",
-    "text": "Hello, I’m Chippy Marx, an emerging professional in the fields of ecosystem science and sustainability, and restoration ecology.\n\n\nI have experience in: microbial research and genetics, GIS, and soil physics"
+    "text": "Chippy\nHello, I’m Chippy Marx, an emerging professional in the fields of ecosystem science and sustainability, and restoration ecology. I have specific interest in lab work and fire ecology, and am looking for an internship for summer of 2025.\n\n\nMy Background\nI have experience in microbial research and genetics, GIS, and soil physics.\n\n\nConnect with Me\nLinkedIn Profile\nEmail Me\nMy GitHub Profile"
   }
 ]

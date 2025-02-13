@@ -1,5 +1,8 @@
-------------------------------------------------------------------------
+---
+title: Chippy Marx 
+about: 
+  template: jolla
+  image: images/IMG_2454.jpg
+---
 
-## mchippy01.github.io
 
-This is a Quarto website.
