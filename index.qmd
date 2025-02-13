@@ -4,5 +4,12 @@ about:
   template: jolla
   image: images/IMG_2454.jpg
 ---
+### Connect with Me
+
+[LinkedIn Profile](https://www.linkedin.com/in/charlottelmarx/)  
+
+[Email Me](mailto:mchippy@colostate.edu)
+
+[My GitHub Profile](https://github.com/mchippy01)
 
 

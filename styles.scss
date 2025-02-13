@@ -1,11 +1,11 @@
 /*-- scss:defaults --*/
 // Define your color palette
-$primary-color: #228B22;  // Forest Green
-$secondary-color: #2E8B57; // Sea Green
-$background-color: #F4F9F4; // Light greenish-white
+$primary-color: #0B3D02;  // Dark Green (for navbar & headers)
+$secondary-color: #2E8B57; // Sea Green (for buttons, accents)
+$background-color: #E6F4E6; // Very Light Green (background)
 $text-color: #2C3E50; // Dark slate for readability
-$link-color: #145A32; // Deep green
-$hover-color: #1E8449; // Slightly brighter green
+$link-color: #145A32; // Deep green (links)
+$hover-color: #1E8449; // Slightly brighter green on hover
 
 /*-- scss:rules --*/
 body {
@@ -14,8 +14,9 @@ body {
     font-family: "Arial", sans-serif;
 }
 
+// Navbar (header)
 .navbar {
-    background-color: $primary-color;
+    background-color: $primary-color; 
     a {
         color: white;
         &:hover {
@@ -24,6 +25,12 @@ body {
     }
 }
 
+// Headers (h1, h2, h3, etc.)
+h1, h2, h3, h4, h5, h6 {
+    color: $primary-color;
+}
+
+// Links
 a {
     color: $link-color;
     &:hover {
@@ -31,20 +38,6 @@ a {
     }
 }
 
+// Buttons
 button, .btn {
-    background-color: $secondary-color;
-    color: white;
-    border: none;
-    padding: 10px 15px;
-    border-radius: 5px;
-    &:hover {
-        background-color: $hover-color;
-    }
-}
-
-footer {
-    background-color: $primary-color;
-    color: white;
-    padding: 15px;
-    text-align: center;
-}
+    background-color: $

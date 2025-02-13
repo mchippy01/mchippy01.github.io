@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chippy Marx",
+    "section": "",
+    "text": "Connect with Me\nLinkedIn Profile\nEmail Me\nMy GitHub Profile"
+  },
+  {
     "objectID": "Resume.html",
     "href": "Resume.html",
     "title": "Resume",
@@ -11,13 +18,13 @@
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Nucleotide Excision Repair in Thermococcus kodakarensis\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
+    "text": "Making my first website for ESS 330– Quantitative Reasoning for Ecosystem Science\nThis semester (Spring 2024) I made a personal website for my ESS 330 class.\nSkills learned\n\nCreate a Quarto Website\nR Studio skills including: rendering a website, connecting R Studio to GitHub, basic coding in R Studio.\n\n[My first website](https://mchippy01.github.io/)"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Chippy\nHello, I’m Chippy Marx, an emerging professional in the fields of ecosystem science and sustainability, and restoration ecology. I have specific interest in lab work and fire ecology, and am looking for an internship for summer of 2025.\n\n\nMy Background\nI have experience in microbial research and genetics, GIS, and soil physics.\n\n\nConnect with Me\nLinkedIn Profile\nEmail Me\nMy GitHub Profile"
+    "text": "Chippy\nHello, I’m Chippy Marx, an emerging professional in the fields of ecosystem science and sustainability, and restoration ecology. I have specific interest in lab work and fire ecology, and am looking for an internship for summer of 2025.\n\n\nMy Background\nI have experience in microbial research and genetics, GIS, and soil physics."
   }
 ]

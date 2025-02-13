@@ -2,12 +2,14 @@
 title: "Projects"
 ---
 
-Nucleotide Excision Repair in Thermococcus kodakarensis
+**Making my first website for ESS 330-- Quantitative Reasoning for Ecosystem Science**
 
--   In this assignment we built a static users site with Github Pages
+This semester (Spring 2024) I made a personal website for my ESS 330 class.
 
--   Includes a github repo for access to all the code.
+**Skills learned**
 
--   
+-   Create a Quarto Website
 
-    ## Look at how high quality my work is!
+-   R Studio skills including: rendering a website, connecting R Studio to GitHub, basic coding in R Studio.
+
+\[My first website\]([**https://mchippy01.github.io/**](https://mchippy01.github.io/)**)**
