@@ -1,8 +1,47 @@
-/*-- scss:defaults --*/
+// Define your forest green color palette
+$primary-color: #228B22;  // Forest Green
+$secondary-color: #2E8B57; // Sea Green
+$background-color: #F4F9F4; // Light greenish-white
+$text-color: #2C3E50; // Dark slate for readability
+$link-color: #145A32; // Deep green
+$hover-color: #1E8449; // Slightly brighter green
 
-// Colors 
-$primary-color: #3498db;
-$secondary-color: #2ecc71;
-$background-color: #f8f9fa;
-$text-color: #333;
+// Apply colors to body
+body {
+    background-color: $background-color;
+    color: $text-color;
+    font-family: "Arial", sans-serif;
+}
 
+// Navbar styles
+.navbar {
+    background-color: $primary-color;
+    a {
+        color: white;
+        &:hover {
+            color: $hover-color;
+        }
+    }
+}
+
+// Links
+a {
+    color: $link-color;
+    &:hover {
+        color: $hover-color;
+    }
+}
+
+// Buttons
+button, .btn {
+    background-color: $secondary-color;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    &:hover {
+        background-color: $hover-color;
+    }
+}
+
+// Footer styles
