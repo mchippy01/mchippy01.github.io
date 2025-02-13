@@ -1,43 +1,12 @@
 /*-- scss:defaults --*/
 // Define your color palette
-$primary-color: #0B3D02;  // Dark Green (for navbar & headers)
-$secondary-color: #2E8B57; // Sea Green (for buttons, accents)
-$background-color: #E6F4E6; // Very Light Green (background)
-$text-color: #2C3E50; // Dark slate for readability
-$link-color: #145A32; // Deep green (links)
-$hover-color: #1E8449; // Slightly brighter green on hover
+$primary-color: #043927;  // Dark Green (Navbar & Headers)
+$secondary-color: #2E8B57; // Sea Green (Buttons, Accents)
+$background-color: #E6F4E6; // Very Light Green (Background)
+$text-color: #2C3E50; // Dark Slate for Readability
+$link-color: #145A32; // Deep Green (Links)
+$hover-color: #1E8449; // Slightly Brighter Green on Hover
 
-/*-- scss:rules --*/
-body {
-    background-color: $background-color;
-    color: $text-color;
-    font-family: "Arial", sans-serif;
-}
-
-// Navbar (header)
-.navbar {
-    background-color: $primary-color; 
-    a {
-        color: white;
-        &:hover {
-            color: $hover-color;
-        }
-    }
-}
-
-// Headers (h1, h2, h3, etc.)
-h1, h2, h3, h4, h5, h6 {
-    color: $primary-color;
-}
-
-// Links
-a {
-    color: $link-color;
-    &:hover {
-        color: $hover-color;
-    }
-}
-
-// Buttons
-button, .btn {
-    background-color: $
+// Base document colors 
+$navbar-bg:$primary-color; // Navbar
+$body-bg: $background-color; // background: ;
