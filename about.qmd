@@ -1,13 +1,21 @@
 ---
 title: "About Me"
 format: html
-theme: trestles
 ---
 
-## About Me
+### Chippy 
 
-Hello, I'm Chippy Marx, an emerging professional in the fields of ecosystem science and sustainability, and restoration ecology.
+Hello, I'm Chippy Marx, an emerging professional in the fields of ecosystem science and sustainability, and restoration ecology. I have specific interest in lab work and fire ecology, and am looking for an internship for summer of 2025.
 
 ### My Background
 
-I have experience in: microbial research and genetics, GIS, and soil physics
+I have experience in microbial research and genetics, GIS, and soil physics.
+
+### Connect with Me
+
+[LinkedIn Profile](https://www.linkedin.com/in/charlottelmarx/)  
+
+[Email Me](mailto:mchippy@colostate.edu)
+
+[My GitHub Profile](https://github.com/mchippy01)
+

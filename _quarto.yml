@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: _site
 
 website:
   title: "Chippy Marx"
@@ -17,8 +17,9 @@ website:
 
 format:
   html:
-    css: styles.scss  
+    theme: styles.scss
     toc: true
+    page-layout: full
 
 
 
