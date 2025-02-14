@@ -4,7 +4,11 @@ project:
 
 website:
   title: "Chippy Marx"
+  favicon: favicon.ico
   navbar:
+    title: false
+    logo: favicon.ico
+    logo-alt: "CSU RAMS"
     left:
       - href: index.qmd
         text: Home
