@@ -13,3 +13,19 @@ This semester (Spring 2024) I made a personal website for my ESS 330 class.
 -   R Studio skills including: rendering a website, connecting R Studio to GitHub, basic coding in R Studio.
 
 \[My first website\]([**https://mchippy01.github.io/**](https://mchippy01.github.io/)**)**
+
+**Wrangling COVID-19 Data**
+
+In this lab I manipulated COVID-19 data to show different variables over Colorado and the greater US
+
+**Skills learned**
+
+-   Joining different data sets
+
+-   Improved skills with charts and graphs
+
+-   Using patchwork
+
+-   Calculating mean center points (or more broadly, bringing equations into RStudio)
+
+\[My lab 3 Website\](<https://mchippy01.github.io/CSU-ess-330-lab3/>)

@@ -18,7 +18,7 @@
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Making my first website for ESS 330– Quantitative Reasoning for Ecosystem Science\nThis semester (Spring 2024) I made a personal website for my ESS 330 class.\nSkills learned\n\nCreate a Quarto Website\nR Studio skills including: rendering a website, connecting R Studio to GitHub, basic coding in R Studio.\n\n[My first website](https://mchippy01.github.io/)"
+    "text": "Making my first website for ESS 330– Quantitative Reasoning for Ecosystem Science\nThis semester (Spring 2024) I made a personal website for my ESS 330 class.\nSkills learned\n\nCreate a Quarto Website\nR Studio skills including: rendering a website, connecting R Studio to GitHub, basic coding in R Studio.\n\n[My first website](https://mchippy01.github.io/)\nWrangling COVID-19 Data\nIn this lab I manipulated COVID-19 data to show different variables over Colorado and the greater US\nSkills learned\n\nJoining different data sets\nImproved skills with charts and graphs\nUsing patchwork\nCalculating mean center points (or more broadly, bringing equations into RStudio)\n\n[My lab 3 Website](https://mchippy01.github.io/CSU-ess-330-lab3/)"
   },
   {
     "objectID": "about.html",
